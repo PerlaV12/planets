@@ -1,0 +1,6 @@
+# Ignogre files
+*.dat
+
+# Ignored results
+results/
+
